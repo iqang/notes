@@ -35,4 +35,4 @@
 
 
 
-- **[MySQL学习笔记](https://github.com/iqang/notes)**
+- **[MySQL学习笔记](./LearningNotes/mysql/summary.md)**
