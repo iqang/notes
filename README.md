@@ -1,5 +1,7 @@
-# 软件安装笔记
+# 个人笔记
 
-## 1. gitlab-8.0 docker部署笔记
+## 软件安装笔记
 
-[Gitlab Docker部署](https://github.com/iqang/notes/blob/main/gitlab%E9%83%A8%E7%BD%B2.md)
+### 工作软件安装笔记
+
+- **[Gitlab Docker部署](./InstallationInstructions/gitlab/gitlab-8/gitlab部署.md)**
