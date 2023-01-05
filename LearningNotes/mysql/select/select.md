@@ -4,9 +4,7 @@
    select ... from ...;
    ```
 
-   
-
-> Select 语法结构为select  列名、函数名、常量  from 表名、dual
+   > Select 语法结构为select  列名、函数名、常量  from 表名、dual
 
 
 
@@ -30,6 +28,8 @@
    select first_name as fname,last_name lname,salary "sal",commission_pct "cp this year" from employees order by commission_pct desc limit 5;
    ```
 
+   ------
+
    
 
 3. **去除重复行**
@@ -47,6 +47,8 @@
    select distinct department_id，salary from employees;
    
    ```
+
+   ------
 
    
 
