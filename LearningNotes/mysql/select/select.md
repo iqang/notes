@@ -8,13 +8,9 @@
 
 
 
-2. ------
-
-   **列的别名**
+2. **列的别名**
 
    select语句支持给列起别名，别名包含空格等字符时可以使用一对“”将列名括起来
-
-   
 
    ```sql
    # 通过as关键字进行别名命名
@@ -27,8 +23,6 @@
    
    select first_name as fname,last_name lname,salary "sal",commission_pct "cp this year" from employees order by commission_pct desc limit 5;
    ```
-
-   ------
 
    
 
@@ -47,8 +41,6 @@
    select distinct department_id，salary from employees;
    
    ```
-
-   ------
 
    
 
